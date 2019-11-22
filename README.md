@@ -6,7 +6,7 @@ This is public repository of Dataset proposed in our WACV 2020 paper on Exploiti
 ### RBSF Dataset:
 We created our own synthetic dataset, called RBSF (Real Background, Synthetic foreground), by overlaying the 20 different foreground objects performing various movements with 5 different real background videos. We downloaded both the foregrounds and backgrounds videos from YouTube and mixed them using Video Editing Tool. The dataset can be downloaded from [RBSF](https://github.com/mfaisal59/RBSF).
 
-For more details about dataset, please visit our [project page](http://im.itu.edu.pk/video-object-segmentation/.
+For more details about dataset, please visit our [project page](http://im.itu.edu.pk/video-object-segmentation/ ).
 
 ### Download Dataset
 
