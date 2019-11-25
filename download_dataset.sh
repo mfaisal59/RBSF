@@ -15,10 +15,10 @@ gdrive_download () {
 fileid=1DULXr-Wlxo9-xTd-tb3cp6Paw4Z6qIWA
 filename=JPEGImages.tar.gz
 gdrive_download "$fileid" "$filename"
-tar -xvzf "$filename"
+unzip -xvzf "$filename"
 
 #download Annotations
 fileid=1-wkIy3AWwmv3GsZLOR3QgxjSeT73dRC3
 filename=Annotations.tar.gz
 gdrive_download "$fileid" "$filename"
-tar -xvzf "$filename"
+unzip -xvzf "$filename"
